@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**emirbuckun/emirbuckun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Emir.
+- 🏫 I’m a student at Marmara University.
+- 💼 I’m a developer at [Eksim Holding](https://www.eksim.com.tr/).
+- 🏅 I’m a sport lover. My sports branches:
+  - 🏊 Swimming
+  - 🏃 Running
+  - 🚴 Cycling
+- 🔭 I’m currently working on web technologies.
+- 🌱 I’m currently learning React Native.
+- 👯 I’m looking to collaborate on website projects.
+- 💬 Ask me about movies, TV series or sports!
+- 📫 How to reach me: You can find me as @emirbuckun and most all social media sites.
