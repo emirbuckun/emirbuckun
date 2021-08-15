@@ -3,7 +3,7 @@
 I'm Emir.
 - 🏫 I’m a student at [Marmara University](https://www.marmara.edu.tr/en).
 - 💼 I’m a developer at [Eksim Holding](https://www.eksim.com.tr/).
-- 🏅 I’m a sport lover. My sports branches:
+- 🏅 I’m a sport lover. My sport branches:
   - 🏊 Swimming
   - 🏃 Running
   - 🚴 Cycling
