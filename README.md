@@ -7,6 +7,7 @@ I'm Emir.
   - 🏊 Swimming
   - 🏃 Running
   - 🚴 Cycling
+  - 🏋️ Fitness
 - 🔭 I’m currently working on web technologies.
 - 🌱 I’m currently learning React Native.
 - 👯 I’m looking to collaborate on website projects.
