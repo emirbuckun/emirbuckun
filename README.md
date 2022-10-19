@@ -20,7 +20,7 @@
 </td>
 <td>
 <div>
-<img src="https://media.giphy.com/media/ASvr0zs2rSjqiXpOcN/giphy-downsized-large.gif"></img>
+<img src="https://github.com/emirbuckun/emirbuckun/blob/main/viking.gif"></img>
 </div></p>
 </td>
 </tr>
