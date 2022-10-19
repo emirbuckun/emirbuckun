@@ -1,5 +1,7 @@
 <center><h1>Hello there!  👋  I'm Emir</h1></center>
 
+<h1 align="center">Hello there!  👋  I'm Emir</h1>
+
 - 🏫 I’m a student at [Marmara University](https://www.marmara.edu.tr/en).
 - 🏅 I’m a sport lover. My sport branches:
   - 🏊 Swimming 🏃 Running 🚴 Cycling 🏋️ Fitness ⚽ Football 🏐 Volleyball
