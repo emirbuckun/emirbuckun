@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 I'm Emir.
-- 🏫 I’m a student at [Marmara University](https://www.marmara.edu.tr/en). (now at [Warsaw University of Technology](https://www.pw.edu.pl/engpw) for Erasmus+ project)
-- 💼 I was a developer at [Eksim Holding](https://www.eksim.com.tr/).
+- 🏫 I’m a student at [Marmara University](https://www.marmara.edu.tr/en).
 - 🏅 I’m a sport lover. My sport branches:
   - 🏊 Swimming
   - 🏃 Running
