@@ -1,6 +1,6 @@
 <h1 align="center">Hello there!  👋  I'm Emir</h1>
 
-<table cellspacing="10">
+<table border=”0″ cellspacing="10">
 <tr>
 <td>
 <p>
