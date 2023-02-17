@@ -4,7 +4,8 @@
 
 <div>
   <ul>
-    <li>🏫 I’m a student at <a href="https://www.marmara.edu.tr/en">Marmara University</a>.</li>
+    <li>🏫 I’m a student @ <a href="https://www.marmara.edu.tr/en">Marmara University</a>.</li>
+    <li>🏫 I’m a software developer @ <a href="https://www.eksim.com.tr">Eksim Holdnig</a>.</li>
     <li>🏅 I’m a sport lover. My sport branches:<ul>
     <li>
       <ul>
