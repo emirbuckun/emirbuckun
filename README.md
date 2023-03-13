@@ -3,8 +3,6 @@
 
 <h3 align="left">About Me</h3>
 
-<img align="right" width=450 src="https://github.com/emirbuckun/emirbuckun/blob/main/viking.gif">
-
 - 📖 I’m currently studying at [Marmara University](https://www.marmara.edu.tr/en)
 
 - 🖥️ I’m currently working at [Eksim Holding](https://www.eksim.com.tr/en/home-page)
