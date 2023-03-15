@@ -7,11 +7,11 @@
 
 - 🖥️ I’m working at [Eksim Holding](https://www.eksim.com.tr/en/home-page)
 
-- 📫 How to reach me emirbuckun@hotmail.com
-
 - 🌐 Take a look at my portfolio website [emirbuckun.com](emirbuckun.com)
 
 - 📄 Know about my experiences [https://bit.ly/3TcAGH7](https://bit.ly/3TcAGH7)
+
+- 📫 How to reach me emirbuckun@hotmail.com
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
