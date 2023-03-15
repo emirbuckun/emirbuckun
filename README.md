@@ -7,7 +7,7 @@
 
 - 🖥️ I’m currently working at [Eksim Holding](https://www.eksim.com.tr/en/home-page)
 
-- 📫 How to reach me **emirbuckun@hotmail.com**
+- 📫 How to reach me emirbuckun@hotmail.com
 
 - 🌐 Take a look at my portfolio website [emirbuckun.com](emirbuckun.com)
 
