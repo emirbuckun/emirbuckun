@@ -1,5 +1,5 @@
 <h1 align="center">Emir Buckun</h1>
-<h3 align="center">A diligent full stack software developer</h3>
+<h3 align="center">Full Stack Software Developer</h3>
 
 <h3 align="left">About Me</h3>
 
