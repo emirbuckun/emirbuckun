@@ -1,4 +1,4 @@
-<h1 align="center">Emir Buckun</h1>
+<h1 align="center">Emir Büçkün</h1>
 <h3 align="center">Full Stack Software Developer</h3>
 
 <h3 align="left">About Me</h3>
