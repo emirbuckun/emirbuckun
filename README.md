@@ -3,9 +3,9 @@
 
 <h3 align="left">About Me</h3>
 
-- 📖 I’m studying at [Marmara University](https://www.marmara.edu.tr/en)
+- 📖 I’m studying @ [Marmara University](https://www.marmara.edu.tr/en)
 
-- 🖥️ I’m working at [Eksim Holding](https://www.eksim.com.tr/en/home-page)
+- 🖥️ I’m working @ [Eksim Holding](https://www.eksim.com.tr/en/home-page)
 
 - 🌐 Take a look at my portfolio website [emirbuckun.com](emirbuckun.com)
 
