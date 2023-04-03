@@ -7,7 +7,7 @@
 
 - 🖥️ I’m working @ [Eksim Holding](https://www.eksim.com.tr/en/home-page)
 
-- 🌐 Take a look at my portfolio website [emirbuckun.com](emirbuckun.com)
+- 🌐 Take a look at my portfolio website [emirbuckun.com](https://www.emirbuckun.com)
 
 - 📄 Know about my experiences [https://bit.ly/3TcAGH7](https://bit.ly/3TcAGH7)
 
