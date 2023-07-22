@@ -3,7 +3,7 @@
 
 <h3 align="left">About Me</h3>
 
-- 📖 I’m <strong>senior student</strong> @ [Marmara University](https://www.marmara.edu.tr/en)
+- 📖 I’m <strong>Senior Student</strong> @ [Marmara University](https://www.marmara.edu.tr/en)
 
 - 🖥️ I’m <strong>.NET Developer Intern</strong> @ [OBSS](https://obss.tech/en/)
 
