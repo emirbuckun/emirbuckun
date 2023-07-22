@@ -5,7 +5,7 @@
 
 - 📖 I’m studying @ [Marmara University](https://www.marmara.edu.tr/en)
 
-- 🖥️ I’m working @ [OBSS]([https://www.eksim.com.tr/en/home-page](https://obss.tech/en/))
+- 🖥️ I’m working @ [OBSS](https://obss.tech/en/)
 
 - 🌐 Take a look at my portfolio website [emirbuckun.com](https://www.emirbuckun.com)
 
