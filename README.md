@@ -3,9 +3,9 @@
 
 <h3 align="left">About Me</h3>
 
-- 📖 I’m studying @ [Marmara University](https://www.marmara.edu.tr/en)
+- 📖 I’m studying as a senior student @ [Marmara University](https://www.marmara.edu.tr/en)
 
-- 🖥️ I’m working @ [OBSS](https://obss.tech/en/)
+- 🖥️ I’m working as a .NET Developer Intern @ [OBSS](https://obss.tech/en/)
 
 - 🌐 Take a look at my portfolio website [emirbuckun.com](https://www.emirbuckun.com)
 
