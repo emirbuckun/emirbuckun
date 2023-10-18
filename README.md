@@ -5,7 +5,7 @@
 
 - 📖 I’m <strong>Senior Student</strong> @ [Marmara University](https://www.marmara.edu.tr/en)
 
-- 🖥️ I’m <strong>.NET Developer Intern</strong> @ [OBSS](https://obss.tech/en/)
+- 🖥️ I’m <strong>Software Developer Intern</strong> @ [OBSS](https://obss.tech/en/)
 
 - 🌐 Take a look at my portfolio website [emirbuckun.com](https://www.emirbuckun.com)
 
