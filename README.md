@@ -7,7 +7,7 @@
 
 - 🖥️ I’m <strong>Software Developer Intern</strong> @ [OBSS](https://obss.tech/en/)
 
-- 🌐 Take a look at my portfolio website [emirbuckun.com](https://www.emirbuckun.com)
+- 🌐 Take a look at my website [emirbuckun.com](https://www.emirbuckun.com)
 
 - 📄 Know about my experiences [https://bit.ly/3TcAGH7](https://bit.ly/3TcAGH7)
 
