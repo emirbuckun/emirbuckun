@@ -2,7 +2,7 @@
 
 - 📖 I’m a <strong>Senior Student</strong> @ [Marmara University](https://www.marmara.edu.tr/en)
 
-- 🖥️ I’m a <strong>Software Developer Intern</strong> @ [OBSS](https://obss.tech/en/)
+- 🖥️ I’m a <strong>Software Developer</strong> @ [OBSS](https://obss.tech/en/)
 
 - 🌐 Take a look at my website [emirbuckun.com](https://www.emirbuckun.com)
 
