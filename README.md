@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋 I'm Emir 👨‍💻</h1>
 
-- 📖 I’m a <strong>Senior Student</strong> @ [Marmara University](https://www.marmara.edu.tr/en)
+- 🖥️ <strong>Software Developer</strong> @ [OBSS](https://obss.tech/en/)
 
-- 🖥️ I’m a <strong>Software Developer</strong> @ [OBSS](https://obss.tech/en/)
+- 📖 <strong>Computer Engineering Graduate</strong>, [Marmara University](https://www.marmara.edu.tr/en)
 
 - 🌐 Take a look at my website [emirbuckun.com](https://www.emirbuckun.com)
 
