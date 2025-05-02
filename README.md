@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 I'm Emir 👨‍💻</h1>
 
-- 🖥️ <strong>Software Developer</strong> @ [OBSS](https://obss.tech/en/)
+- 🖥️ <strong>Backend Developer</strong> @ [Halkbank](https://www.halkbank.com.tr/) via [OBSS](https://obss.tech/en/)
 
 - 📖 <strong>Computer Engineering Graduate</strong>, [Marmara University](https://www.marmara.edu.tr/en)
 
