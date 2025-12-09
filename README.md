@@ -6,7 +6,7 @@
 
 - 🌐 Take a look at my website [emirbuckun.com](https://www.emirbuckun.com)
 
-- 📄 Know about my experiences [from my CV](https://bit.ly/3TcAGH7)
+- 📄 Know about my experiences [CV](https://bit.ly/3TcAGH7)
 
 - 📫 How to reach me emirbuckun@hotmail.com
 
@@ -44,11 +44,4 @@
     <img src="https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe" />
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
     <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
-</div>
-
-<div align="center">
-    <h2>Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirbuckun&theme=dark&layout=compact" />
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=emirbuckun&theme=dark" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=emirbuckun&theme=dark" />
 </div>
