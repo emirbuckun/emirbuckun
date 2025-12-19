@@ -45,3 +45,9 @@
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
     <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
 </div>
+
+<div align="center">
+    <h2>Stats</h2>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirbuckun&theme=dark&layout=compact" />
+    <img src="https://github-readme-stats-emirbuckun.vercel.app/api?username=emirbuckun&theme=dark" />
+</div>
