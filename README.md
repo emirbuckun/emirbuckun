@@ -75,7 +75,5 @@ ASP.NET Core • SQL Server • Kafka • Banking & financial systems
 ---
 
 <div align="center">
-  <h2>📊 GitHub Stats</h2>
   <img src="https://github-readme-stats-emirbuckun.vercel.app/api?username=emirbuckun&theme=dark&hide_border=true&rank_icon=github" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirbuckun&theme=dark&layout=compact&hide_border=true" />
 </div>
